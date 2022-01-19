@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shahnozaAI
 - 👀 I’m interested in building end-to-end ML solutions
 - 🌱 I’m currently learning Terraform
-- 💞️ Data Scientist at NTT Data
 - 📫 Reach me: https://www.linkedin.com/in/shahnoza/
 
 <!---
