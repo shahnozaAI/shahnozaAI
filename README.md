@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shahnozaAI
-- 👀 I’m interested in building end-to-end ML solutions
+- 👀 I build end-to-end ML solutions
 - 🌱 I’m currently learning Terraform
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/shahnoza/)
 
